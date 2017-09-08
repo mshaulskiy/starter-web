@@ -18,3 +18,6 @@ even local file system.
 
 ## How To Contribute
 
+## Copyright
+
+2017 Git.Training.
