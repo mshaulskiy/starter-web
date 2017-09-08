@@ -20,4 +20,4 @@ even local file system.
 
 ## Copyright
 
-2017 Git.Training.
+©2017 Git.Training.®
